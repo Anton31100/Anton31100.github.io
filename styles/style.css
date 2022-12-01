@@ -1,7 +1,51 @@
 h1 {
     text-align: center;
 }
+
 body {
-    background-color: rgb(red, green, blue);
-    border: aqua ;
+
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 4px;
+    background-color: darkgoldenrod, 0.5;
+    opacity: 0.5;
+    background-size: 80%;
 }
+
+hr {
+    width: 57%;
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 5;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: coral;
+    border-radius: 10px;
+    transition: 1s;
+}
+.qwe {
+    color: rgb(151, 248, 138);
+}
+.qaz {
+    color: crimson;
+}
+#st1 {
+    color: blue;
+}
+#st2 {
+    color: cadetblue;
+}
+#st3 {
+    color: lightcoral;
+}
+
