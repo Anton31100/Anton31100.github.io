@@ -6,8 +6,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
     padding: 4px;
-    opacity: 0.8;
-    background-size: 80%;
+    opacity: 0.6;
+    background-size: 17%;
 }
 hr {
     width: 57%;
@@ -23,23 +23,38 @@ li {
     cursor: pointer;
 }
 li:hover {
-    background-color: coral;
+    background-color: rgb(80, 133, 255);
     border-radius: 10px;
     transition: 1s;
 }
 .qwe {
-    color: rgb(151, 248, 138);
+    color: rgb(85, 20, 249);
+    font-family: 'Caveat', cursive;
+    font-size: 32px;
 }
 .qaz {
     color: crimson;
+    font-family: 'Caveat', cursive;
+    font-size: 32px;   
 }
 #st1 {
     color: blue;
+    font-size:  24px;
 }
 #st2 {
-    color: cadetblue;
+    color: rgb(1, 37, 39);
+    font-size:  24px;
 }
 #st3 {
-    color: lightcoral;
+    color: rgb(44, 2, 2);
+    font-size:  24px;
 }
-
+p {
+    color: rgb(86, 5, 5);
+    font-family: 'Caveat', cursive;
+    font-size: 32px;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+}
