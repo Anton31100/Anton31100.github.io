@@ -17,7 +17,7 @@ hr {
 }
 ul {
     list-style: none;
-    padding-inline-start: 5;
+    padding-inline-start: 5px;
     text-align: center;
 }
 li {
