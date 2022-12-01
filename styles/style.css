@@ -1,33 +1,27 @@
 h1 {
     text-align: center;
 }
-
 body {
-
+    background-image: url(https://raw.githubusercontent.com/Anton31100/Anton31100.github.io/main/images/background.jpg);
     background-attachment: fixed;
     background-size: cover;
     padding: 4px;
-    background-color: darkgoldenrod, 0.5;
-    opacity: 0.5;
+    opacity: 0.8;
     background-size: 80%;
 }
-
 hr {
     width: 57%;
 }
-
 ul {
     list-style: none;
     padding-inline-start: 5;
     text-align: center;
 }
-
 li {
     display: inline-block;
     padding: 10px 30px;
     cursor: pointer;
 }
-
 li:hover {
     background-color: coral;
     border-radius: 10px;
