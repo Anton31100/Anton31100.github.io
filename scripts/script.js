@@ -7,4 +7,4 @@
     document.getElementById('y').innerText=y;
     document.getElementById('res').innerText=res;
     
-  
+   
